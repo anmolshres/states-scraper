@@ -1,7 +1,3 @@
-# Regex to getting New Zealand links
-# https://regex101.com/r/MxoFhB/1
-###
-
 import scrapy
 import html2text
 import cld2
